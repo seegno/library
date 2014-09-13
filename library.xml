@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<opml version="1.0">
+    <head>
+        <title>Seegno OPML Library</title>
+    </head>
+
+    <body>
+        <outline title="AngularJS" text="AngularJS">
+            <outline text="angular.js master branch" title="angular.js master branch" type="rss" xmlUrl="https://github.com/angular/angular.js/commits/master.atom" htmlUrl="https://github.com/angular/angular.js/commits/master" />
+        </outline>
+        <outline title="Node.js" text="Node.js">
+            <outline text="The npm Blog" title="The npm Blog" type="rss" xmlUrl="http://blog.npmjs.org/rss" htmlUrl="http://blog.npmjs.org/" />
+            <outline text="Release notes from node" title="Release notes from node" type="rss" xmlUrl="https://github.com/joyent/node/releases.atom" htmlUrl="/joyent/node/releases" />
+            <outline text="Node.js Reactions" title="Node.js Reactions" type="rss" xmlUrl="http://nodejsreactions.tumblr.com/rss" htmlUrl="http://nodejsreactions.tumblr.com/" />
+        </outline>
+    </body>
+</opml>
