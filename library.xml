@@ -9,6 +9,9 @@
         <outline title="AngularJS" text="AngularJS">
             <outline text="angular.js master branch" title="angular.js master branch" type="rss" xmlUrl="https://github.com/angular/angular.js/commits/master.atom" htmlUrl="https://github.com/angular/angular.js/commits/master" />
         </outline>
+        <outline title="CSS" text="CSS">
+            <outline text="Codrops" title="Codrops" type="rss" xmlUrl="http://feeds.feedburner.com/codrops" htmlUrl="http://tympanus.net/codrops" />
+        </outline>
         <outline title="Node.js" text="Node.js">
             <outline text="The npm Blog" title="The npm Blog" type="rss" xmlUrl="http://blog.npmjs.org/rss" htmlUrl="http://blog.npmjs.org/" />
             <outline text="Release notes from node" title="Release notes from node" type="rss" xmlUrl="https://github.com/joyent/node/releases.atom" htmlUrl="/joyent/node/releases" />
