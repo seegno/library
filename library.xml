@@ -22,5 +22,8 @@
             <outline text="The Verge" title="The Verge" type="rss" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/" />
             <outline text="The Next Web" title="The Next Web" type="rss" xmlUrl="http://thenextweb.com/feed/" htmlUrl="" />
         </outline>
+        <outline title="Web" text="Web">
+            <outline text="HTML5Rocks" title="HTML5Rocks" type="rss" xmlUrl="http://feeds.feedburner.com/html5rocks" htmlUrl="http://feeds.feedburner.com/html5rocks" />
+        </outline>
     </body>
 </opml>
